@@ -199,7 +199,7 @@ header p {
 
 header .hero-img {
   height: 100vh;
-  background-image: url(../img/japan-small.jpg);
+  background-image: url("../img/japan-small.jpg");
 }
 
 header .hero-text {
@@ -261,7 +261,7 @@ header .fa-chevron-down {
 
 .aboutus-hero {
   position: relative;
-  background-image: url(../img/code-mini.jpg);
+  background-image: url("../img/code-mini.jpg");
   background-size: cover;
   background-position: center;
   color: #ddd;
@@ -359,7 +359,7 @@ header .fa-chevron-down {
 
 .team {
   position: relative;
-  background-image: url(../img/team/conference-room-768441_1920.jpg);
+  background-image: url("../img/team/conference-room-768441_1920.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -463,7 +463,7 @@ header .fa-chevron-down {
 
 .contact {
   position: relative;
-  background-image: url(../img/skyline-1869214_640.jpg);
+  background-image: url("../img/skyline-1869214_640.jpg");
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
@@ -559,16 +559,16 @@ header .fa-chevron-down {
     height: 98.67px;
   }
   .aboutus-hero {
-    background-image: url(../img/code-big.jpg);
+    background-image: url("../img/code-big.jpg");
   }
   .contact {
-    background-image: url(../img/skyline-1869214_1920.jpg);
+    background-image: url("../img/skyline-1869214_1920.jpg");
   }
 }
 
 @media (min-width: 768px) and (min-width: 1200px) {
   header .hero-img {
-    background-image: url(../img/japan-big.jpg);
+    background-image: url("../img/japan-big.jpg");
   }
 }
 /*# sourceMappingURL=main.css.map */
