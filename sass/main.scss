@@ -121,12 +121,19 @@ header {
 	}
 
 	.fa-chevron-down {
+		width: 100%;
+		text-align: center;
+		font-size: 60px;
+		padding: 20px;
+		border: 1px solid tan;
+		color: $white;
+	}
+
+	.chevron-div {
 		position: absolute;
-		bottom: 20px;
+		bottom: 80px;
 		left: 50%;
 		transform: translateX(-50%);
-		font-size: 40px;
-		color: $white;
 	}
 }
 
