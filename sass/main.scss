@@ -100,7 +100,7 @@ header {
 	}
 
 	.hero-img {
-		height: 90vh;
+		height: calc(90vh - 3rem);
 		background-image: url('../img/japan-small.jpg');
 	}
 
@@ -235,7 +235,7 @@ header {
 	}
 
 	.price-box:hover {
-		transform: scale(.9);
+		transform: scale(0.9);
 	}
 }
 .text-center {
