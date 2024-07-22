@@ -1,5 +1,5 @@
-# MKDesign
+# MKDesign Portfolio Website
 
-Simple website.
+Website from Front-End course, build with HTML, SCSS and JS.
 
-live - https://kupi403.github.io/MKDesign/
+Live - https://kupi403.github.io/MKDesign/
